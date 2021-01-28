@@ -1,0 +1,6 @@
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - FactoryMethodDP\ŞA - FactoryMethodDP\bin\Debug\ŞA - FactoryMethodDP.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - FactoryMethodDP\ŞA - FactoryMethodDP\bin\Debug\ŞA - FactoryMethodDP.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - FactoryMethodDP\ŞA - FactoryMethodDP\bin\Debug\ŞA - FactoryMethodDP.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - FactoryMethodDP\ŞA - FactoryMethodDP\obj\Debug\ŞA - FactoryMethodDP.csprojResolveAssemblyReference.cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - FactoryMethodDP\ŞA - FactoryMethodDP\obj\Debug\ŞA - FactoryMethodDP.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - FactoryMethodDP\ŞA - FactoryMethodDP\obj\Debug\ŞA - FactoryMethodDP.pdb
